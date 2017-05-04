@@ -1,5 +1,6 @@
 <template>
-	<div class="Pricing">
+	<div class="Plans">
+		<h1>Plans</h1>
 	</div>
 </template>
 

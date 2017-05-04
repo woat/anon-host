@@ -69,7 +69,7 @@
 					</div>
 				</div>
 			</div>
-			<span style="color: #696758"><em>* As long as hosted content doesn't violate our <a href="#">TOS</a>.</em></span>
+			<span style="color: #696758"><em>* As long as hosted content doesn't violate our <a href="#">ToS</a>.</em></span>
 		</div>
 	</div>
 </section>
@@ -78,14 +78,14 @@
 	<div class="hero-body no-pad-top">
 		<div class="container has-text-centered">
 			<span class="banner-text choice">
-				The #1 Choice in Anonymous Web Hosting
+				Shared, VPS, or Dedicated, we have it all.
 			</span>
 		</div>
 		<br>
 		<div class="container has-text-centered">
-			<a class="banner-text button is-dark is-large">
-				view pricing plans&nbsp;&nbsp;<i class="fa fa-chevron-right" style=" vertical-align: middle;" aria-hidden="true"></i>
-			</a>
+			<router-link to="/pricing" class="banner-text button is-dark is-large">
+				view our plans&nbsp;&nbsp;<i class="fa fa-chevron-right" style=" vertical-align: middle;" aria-hidden="true"></i>
+			</router-link>
 		</div>
 	</div>
 </section>

@@ -13,7 +13,7 @@
 				<div class="column is-3">
 					<div class="footer-title">Legal</div>
 					<div class="footer-text">
-						<a class="footer-link">Terms of Service (TOS)</a>
+						<a class="footer-link">Terms of Service (ToS)</a>
 						<br>
 						<a class="footer-link">Privacy Policy</a>
 						<br>
