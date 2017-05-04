@@ -29,6 +29,12 @@ img + img {
 	padding-top: 20px;
 }
 
+hr {
+	border-color: #bfb894 !important;
+	color: #bfb894!important;
+	background-color: #bfb894!important;
+}
+
 p {
 	margin: 0px;
 	padding: 0px;
@@ -53,12 +59,27 @@ strong {
 	font-variant: small-caps;
 }
 
+.banner-text.box-button {
+	font-size: 1.75em;
+}
+
 .banner-subtext {
 	font-family: 'Muli';
 	font-style: italic;
 	font-weight: 400 !important;
 	font-size: 2em;
 	color: #C5BC8E;
+}
+
+.banner-subtext.subbox {
+	font-style: normal; 
+	font-size: 1.5em;
+}
+
+.price {
+	font-weight: 700;
+	color: #B9D7D9;
+	font-size: 2em;
 }
 
 .nav-logo-text {

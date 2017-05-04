@@ -4,10 +4,10 @@
 <nav class="nav is-gry">
 	<div class="container">
 		<div class="nav-left">
-			<a class="nav-item">
+			<router-link to="/" class="nav-item">
 				<img class="nav-logo" src="../assets/img/logo-white.png">&nbsp;
 				<span class="nav-logo-text">Navlys</span>
-			</a>
+			</router-link>
 		</div>
 		<div class="nav-right">
 			<a class="nav-item nav-hover">

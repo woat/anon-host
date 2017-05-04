@@ -83,8 +83,8 @@
 		</div>
 		<br>
 		<div class="container has-text-centered">
-			<router-link to="/pricing" class="banner-text button is-dark is-large">
-				view our plans&nbsp;&nbsp;<i class="fa fa-chevron-right" style=" vertical-align: middle;" aria-hidden="true"></i>
+			<router-link to="/plans" class="banner-text button is-dark is-large">
+				view our plans&nbsp;&nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i>
 			</router-link>
 		</div>
 	</div>
