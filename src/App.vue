@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 		<Navi></Navi>
-    <router-view></router-view>
+		<router-view></router-view>
 		<Foot></Foot>
   </div>
 </template>
@@ -19,4 +19,4 @@ export default {
 }
 </script>
 
-<style></style>
+<style scoped></style>
